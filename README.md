@@ -1,1 +1,1 @@
-# Words App using Navigation components
+# Words App using Navigation component
